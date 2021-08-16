@@ -1,0 +1,4 @@
+    <audio controls autoplay>
+    <--- your own file in the src attribute --->
+  <source src="/WarOfTheUniverses/music/lol_ok.mp3" type="audio/mpeg">
+</audio>
